@@ -1,6 +1,6 @@
-# Automation testing
+# Automation Testing
 
-List of courses which needs to be covered to move from manual testing to automation testing.
+List of courses which needs to be covered to upgrade from manual to automation testing.
 
 ~~~
 Sequence Number 	Course Name 	Link 	
