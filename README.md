@@ -4,10 +4,12 @@ use this repo to share info
 ~~~
 Sequence Number 	Course Name 	Link 	
 ~~~
+[Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
 ~~~
 01	         Postman Fundamentals	https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents	2h 37m	
 
-[Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
+[Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents).
+
 ~~~
 ~~~
 02	JMeter: Getting Started
