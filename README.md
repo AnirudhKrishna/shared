@@ -1,9 +1,11 @@
-# shared
-use this repo to share info
+# Automation testing
+
+List of courses which needs to be covered to move from manual testing to automation testing.
 
 ~~~
 Sequence Number 	Course Name 	Link 	
 ~~~
+
 [01 Postman Fundamentals](https://app.pluralsight.com/library/courses/postman-fundamentals/table-of-contents)
 
 [02 JMeter: Getting Started](https://app.pluralsight.com/library/courses/jmeter-getting-started/table-of-contents)
